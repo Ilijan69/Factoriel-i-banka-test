@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ST2/WsafsJPBD47DCOeIthPFQKH2tDVbt3z60OjZPFYAHJ1yyTIJDb4+uQvO/JqKg8SUecv7e3QaxubH+7QqKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\OneDrive\\Работен плот\\FactorialTest(3)\\FactorialTest\\FactorialTest.Test\\FactorialTest.Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512"
+  ],
+  "logs": []
+}

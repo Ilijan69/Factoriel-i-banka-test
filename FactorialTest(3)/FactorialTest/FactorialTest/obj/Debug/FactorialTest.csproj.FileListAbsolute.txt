@@ -1,0 +1,7 @@
+D:\Visual Studio Projects\Visual Studio 2022\FactorialTest\FactorialTest\bin\Debug\FactorialTest.exe.config
+D:\Visual Studio Projects\Visual Studio 2022\FactorialTest\FactorialTest\bin\Debug\FactorialTest.exe
+D:\Visual Studio Projects\Visual Studio 2022\FactorialTest\FactorialTest\bin\Debug\FactorialTest.pdb
+D:\Visual Studio Projects\Visual Studio 2022\FactorialTest\FactorialTest\obj\Debug\FactorialTest.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\Visual Studio 2022\FactorialTest\FactorialTest\obj\Debug\FactorialTest.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Visual Studio 2022\FactorialTest\FactorialTest\obj\Debug\FactorialTest.exe
+D:\Visual Studio Projects\Visual Studio 2022\FactorialTest\FactorialTest\obj\Debug\FactorialTest.pdb

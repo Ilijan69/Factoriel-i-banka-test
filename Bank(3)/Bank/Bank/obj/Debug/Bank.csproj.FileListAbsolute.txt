@@ -1,0 +1,7 @@
+D:\Visual Studio Projects\Visual Studio 2022\Bank\Bank\bin\Debug\Bank.exe.config
+D:\Visual Studio Projects\Visual Studio 2022\Bank\Bank\bin\Debug\Bank.exe
+D:\Visual Studio Projects\Visual Studio 2022\Bank\Bank\bin\Debug\Bank.pdb
+D:\Visual Studio Projects\Visual Studio 2022\Bank\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\Visual Studio 2022\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Visual Studio 2022\Bank\Bank\obj\Debug\Bank.exe
+D:\Visual Studio Projects\Visual Studio 2022\Bank\Bank\obj\Debug\Bank.pdb

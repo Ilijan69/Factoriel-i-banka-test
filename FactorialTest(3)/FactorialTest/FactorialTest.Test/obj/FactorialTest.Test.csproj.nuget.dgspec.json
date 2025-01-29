@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ASUS\\OneDrive\\Работен плот\\FactorialTest(3)\\FactorialTest\\FactorialTest.Test\\FactorialTest.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ASUS\\OneDrive\\Работен плот\\FactorialTest(3)\\FactorialTest\\FactorialTest.Test\\FactorialTest.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Работен плот\\FactorialTest(3)\\FactorialTest\\FactorialTest.Test\\FactorialTest.Test.csproj",
+        "projectName": "FactorialTest.Test",
+        "projectPath": "C:\\Users\\ASUS\\OneDrive\\Работен плот\\FactorialTest(3)\\FactorialTest\\FactorialTest.Test\\FactorialTest.Test.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\OneDrive\\Работен плот\\FactorialTest(3)\\FactorialTest\\FactorialTest.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {
+              "C:\\Users\\ASUS\\OneDrive\\Работен плот\\FactorialTest(3)\\FactorialTest\\FactorialTest\\FactorialTest.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\OneDrive\\Работен плот\\FactorialTest(3)\\FactorialTest\\FactorialTest\\FactorialTest.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ASUS\\OneDrive\\Работен плот\\FactorialTest(3)\\FactorialTest\\FactorialTest\\FactorialTest.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Работен плот\\FactorialTest(3)\\FactorialTest\\FactorialTest\\FactorialTest.csproj",
+        "projectName": "FactorialTest",
+        "projectPath": "C:\\Users\\ASUS\\OneDrive\\Работен плот\\FactorialTest(3)\\FactorialTest\\FactorialTest\\FactorialTest.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}
